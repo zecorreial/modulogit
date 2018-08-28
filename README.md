@@ -1,3 +1,1 @@
-Meu Segundo projeto no GIT.
-Modificação do meu sistema para melhorar o sistema
-arquivo modificado
+Vou adicionar de novo(Transferindo os arquivos para um servidor)
